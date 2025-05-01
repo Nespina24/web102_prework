@@ -1,4 +1,4 @@
-![SKViPWi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/12a7f82c-2ea2-47c9-a4ac-457011a18712)# WEB102 Prework - *Sea Monster Games*
+# WEB102 Prework - *Sea Monster Games*
 
 Submitted by: **Nathan Espina**
 
@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/5tUBD0w.gif" alt="Video Walkthrough" title="Video Walkthrough" />
-(https://i.imgur.com/5tUBD0w.gif)
+![SKViPWi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/12a7f82c-2ea2-47c9-a4ac-457011a18712)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif.com  
@@ -41,7 +40,7 @@ I was able to complete the prework and learn many of the methods again, which st
 
 ## License
 
-    Copyright [2025] [Nathan Espina]
+    Copyright 2025 Nathan Espina
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
