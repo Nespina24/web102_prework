@@ -79,7 +79,7 @@ const contributionsCard = document.getElementById("num-contributions");
 let totalContributions = GAMES_JSON.reduce((acc, contribution) => {
     return acc + contribution.backers;
 }, 0);
-// contributionsCard.textContent = totalContributions.toLocaleString('en-US');
+
 contributionsCard.innerHTML = `${totalContributions.toLocaleString('en-US')}`;
 
 
