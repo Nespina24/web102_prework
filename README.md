@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![SKViPWi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/12a7f82c-2ea2-47c9-a4ac-457011a18712)
+<img src="https://github.com/user-attachments/assets/12a7f82c-2ea2-47c9-a4ac-457011a18712" title="Video Walkthrough" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif.com  
