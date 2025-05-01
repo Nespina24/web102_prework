@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Games*
+![SKViPWi-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/12a7f82c-2ea2-47c9-a4ac-457011a18712)# WEB102 Prework - *Sea Monster Games*
 
 Submitted by: **Nathan Espina**
 
@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[(https://imgur.com/a/13MpZGK)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/5tUBD0w.gif" alt="Video Walkthrough" title="Video Walkthrough" />
+(https://i.imgur.com/5tUBD0w.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif.com  
